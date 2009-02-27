@@ -2,9 +2,11 @@
 Revision = 'Code Wrapper on Shoes v0.4b'
 CopyRight =<<EOS
 #{Revision}
-contains code by
+contains code by:
 Satoshi Asakawa, Victor Goff,
-Mareike Hybsier, Paul Lutus, Michael Uplawski.
+Mareike Hybsier, Paul Lutus,
+Carlan Calazans, Michael Uplawski.
+
 Creature named 'Cy' created by Anita Kuno.
 (c)2008, www.rubylearning.org
 (c)2008, Paul Lutus (www.arachnoid.com)
